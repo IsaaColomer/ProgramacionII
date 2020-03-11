@@ -1,4 +1,0 @@
-﻿  Main_1.cpp
-C:\Users\theex\Desktop\Ignasi\GitHub\Proyectos\Deberes_Punteros\Deberes_Punteros\Main_1.cpp(10,26): warning C4311: 'type cast': pointer truncation from 'int *' to 'int'
-C:\Users\theex\Desktop\Ignasi\GitHub\Proyectos\Deberes_Punteros\Deberes_Punteros\Main_1.cpp(10,26): warning C4302: 'type cast': truncation from 'int *' to 'int'
-  Deberes_Punteros.vcxproj -> C:\Users\theex\Desktop\Ignasi\GitHub\Proyectos\Deberes_Punteros\x64\Debug\Ejercicio_1.exe
