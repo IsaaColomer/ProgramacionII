@@ -1,0 +1,4 @@
+﻿  Main_6.cpp
+C:\Users\theex\Desktop\Ignasi\GitHub\Proyectos\Deberes_OOP\Ejercicio_6\Main_6.cpp(34): warning C4715: 'Clock::minor': not all control paths return a value
+C:\Users\theex\Desktop\Ignasi\GitHub\Proyectos\Deberes_OOP\Ejercicio_6\Main_6.cpp(25): warning C4715: 'Clock::equal': not all control paths return a value
+  Ejercicio_6.vcxproj -> C:\Users\theex\Desktop\Ignasi\GitHub\Proyectos\Deberes_OOP\x64\Debug\Ejercicio_6.exe
